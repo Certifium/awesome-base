@@ -493,10 +493,15 @@ and more.
   design custom drops, and offer fans exclusive content and gated experiences on
   their own branded website.
 
+  **[Certifium](https://certifium.com)**: Certifium is a compliance-first RWA                                                             
+    NFT marketplace for certified coins and collectibles. USDC payments, gasless                                                            
+    transactions via Coinbase Paymaster, and physical asset custody with                                                                    
+    redemption.
+  
 - **[Crossmint](https://crossmint.com)**: Enterprise-grade infrastructure to
   build NFT use cases accessible to everyone. Including NFT
   wallets-as-a-service, minting, payments, and token-gating APIs.
-
+ 
 - **[Decent](https://decent.xyz/)**: Cross-chain transactions, meet one-tap
   payments. Serve customers of every stripe with The Box, empowering them with
   automatic swaps, built‑in bridging, and seamless secondary sales.
